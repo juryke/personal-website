@@ -205,7 +205,6 @@ input, select, textarea {
 		letter-spacing: 0.175em;
 		line-height: 1.75;
 		margin: 0 0 1.5rem 0;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3264,7 +3263,7 @@ input, select, textarea {
 					font-size: 0.8rem;
 					letter-spacing: 0.175em;
 					line-height: 2.5;
-					text-transform: uppercase;
+					/* text-transform: uppercase; */
 				}
 
 				#wrapper section > header ul.actions {
